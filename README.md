@@ -1,1 +1,1 @@
-Barcode scanner for Android with Zbar library.
+Android Barcode Scanner
